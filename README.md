@@ -1,6 +1,6 @@
 # stats.fm for Spicetify
 
-A [Spicetify](https://spicetify.app) extension that shows your [stats.fm](https://stats.fm) listening stats inside Spotify.
+A [Spicetify](https://spicetify.app) extension that shows your [stats.fm](https://stats.fm) listening stats inside Spotify. Since the last.fm one isn't that optimal!
 
 ![Preview](preview.png)
 
