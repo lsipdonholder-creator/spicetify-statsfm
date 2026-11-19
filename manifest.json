@@ -1,0 +1,13 @@
+[
+  {
+    "name": "stats.fm for Spicetify",
+    "description": "See your stats.fm top tracks, artists, albums and genres inside Spotify, plus per-song play counts on right-click. Doesn't use Spotify's rate-limited Web API.",
+    "preview": "preview.png",
+    "main": "statsfm.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "lsipdonholder-creator", "url": "https://github.com/lsipdonholder-creator" }
+    ],
+    "tags": ["stats", "statistics", "stats.fm", "listening", "top tracks"]
+  }
+]
