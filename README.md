@@ -1,8 +1,18 @@
 # stats.fm for Spicetify
 
-A [Spicetify](https://spicetify.app) extension that shows your [stats.fm](https://stats.fm) listening stats inside Spotify. Since the last.fm one isn't that optimal!
+A [Spicetify](https://spicetify.app) extension that shows your [stats.fm](https://stats.fm) listening stats inside Spotify.
 
 ![Preview](preview.png)
+
+> [!IMPORTANT]
+> **"All time" only shows what stats.fm has.** stats.fm only records plays from after you create your account, so a new account will show the same numbers for 4 weeks, 6 months and All time.
+>
+> To see your full listening history:
+> 1. On [spotify.com](https://www.spotify.com/account/privacy/), go to **Account → Security and privacy → Account privacy**.
+> 2. Under "Download your data", tick **Extended streaming history** and click **Request data**. Spotify emails it to you, which can take up to 30 days.
+> 3. Upload the zip you receive on [stats.fm](https://stats.fm) under **Settings → Imports**.
+>
+> Once stats.fm finishes processing the import, this extension shows your full history automatically.
 
 ## Features
 
@@ -41,7 +51,6 @@ Click the **stats.fm** button in the top bar (or find it in the profile menu), t
 
 ## Notes
 
-- stats.fm only knows plays from after you signed up. To see older listening, request your **Extended streaming history** from Spotify (Account → Security and privacy → Account privacy) and import it on stats.fm. Until then, all three time ranges may show the same numbers.
 - Results are cached for 5 minutes.
 
 ## Disclaimer
